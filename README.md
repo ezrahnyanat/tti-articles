@@ -11,3 +11,5 @@ https://developers.google.com/web/tools/lighthouse/audits/time-to-interactive
 https://web.dev/interactive/
 
 Loading performance overview (https://developers.google.com/web/fundamentals/performance/get-started)
+
+Measuring performance (https://developers.google.com/web/fundamentals/performance/get-started/measuringperf-2)
